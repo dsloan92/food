@@ -1,0 +1,12 @@
+{
+  "name": "dsloan92/328/food",
+  "authors": [
+    {
+      "name": "Dallas Sloan",
+      "email": "dsloan4@mail.greenriver.edu"
+    }
+  ],
+  "require": {
+    "bcosca/fatfree-core": "dev-master"
+  }
+}
